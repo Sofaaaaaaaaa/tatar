@@ -58,6 +58,12 @@ header {
     margin-top: 40px;
 }
 
+.header-nav {
+    display: flex;
+    gap: 110px;
+    justify-content: space-between;
+}
+
 .header-block {
     display: flex;
     justify-content: space-between;
